@@ -4,7 +4,7 @@ published: 2024-04-10
 description: 展示 Markdown 中代码块的高亮效果。
 tags: [Markdown, 博客, 示例]
 category: 示例
-draft: false
+draft: true
 ---
 
 Fuwari 使用 [Expressive Code](https://expressive-code.com/) 渲染代码块。它支持语法高亮、文件标题、行号和高亮行。

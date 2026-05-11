@@ -4,7 +4,7 @@ published: 2023-08-01
 description: 演示如何在博客文章中插入外部视频。
 tags: [示例, 视频]
 category: 示例
-draft: false
+draft: true
 ---
 
 把 YouTube、Bilibili 或其他平台提供的嵌入代码复制到 Markdown 文件中，就可以在文章中展示视频。
